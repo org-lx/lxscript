@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-DDEBUG",
+      "-Iinclude",
+      "-m64",
+      "-g",
+      "-std=c99",
+      "-c",
+      "-o",
+      "obj/Debug/lxscript/main.o",
+      "cli/main.c"
+    ],
+    "directory": "/home/turdle/Projects/lx/lxscript",
+    "file": "/home/turdle/Projects/lx/lxscript/cli/main.c",
+    "output": "/home/turdle/Projects/lx/lxscript/obj/Debug/lxscript/main.o"
+  }
+]
